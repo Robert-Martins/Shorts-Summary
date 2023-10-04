@@ -2,23 +2,23 @@ import { Indicator } from "../models/indicator.model";
 
 export const Indicators: Indicator[] = [
     {
-        amount: "",
-        unity: "",
-        description: ""
+        amount: "US$ 500",
+        unity: "bilhões",
+        description: "gastos com IA até 2023"
     },
     {
-        amount: "",
+        amount: "40%",
         unity: "",
-        description: ""
+        description: "de aumento de produtividade utilizando IAs"
     },
     {
-        amount: "",
+        amount: "75%",
         unity: "",
-        description: ""
+        description: "aumento da adoção de IAs em aplicativos corporativos"
     },
     {
-        amount: "",
-        unity: "",
-        description: ""
+        amount: "13",
+        unity: "trilhões",
+        description: "crescimento econômico que IA pode gerar"
     }
 ]
