@@ -1,4 +1,4 @@
-import { DevData } from "../models/dev-data.model";
+import DevData from "../models/dev-data.model";
 
 export const Dev: DevData = {
 
