@@ -1,4 +1,4 @@
-export interface DevData {
+export default interface DevData {
 
     name: string;
     role: string;
